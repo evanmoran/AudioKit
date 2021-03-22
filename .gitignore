@@ -26,6 +26,7 @@ Podfile.lock
 # osx noise
 .DS_Store
 profile
+.swiftpm
 
 junk/
 
@@ -35,7 +36,7 @@ dev/
 # During Development
 AudioUnits
 
-# Style Checking 
+# Style Checking
 SwiftStyleSettings.plist
 
 /Frameworks/distribute_built_frameworks.sh
